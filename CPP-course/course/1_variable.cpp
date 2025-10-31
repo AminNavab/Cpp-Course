@@ -1,12 +1,15 @@
 #include<iostream>
 # include<vector>
 using namespace std;
+
+
 // *** (typedef) *** => make your type
 // (1) => typedef - main_type - new_type;
 typedef string string_a;
 typedef int int_a;
 typedef double double_a;
 typedef char char_a;
+
 // (2) => using - new_type = main_type;
 using string_aa = string;
 using int_aa = int;
