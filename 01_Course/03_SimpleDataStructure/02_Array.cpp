@@ -102,7 +102,7 @@ int main(){
         cout<<element<<endl;
     }
     cout<<"******************************************\n";
-    // fill() = filla a range of element whit a apecified value fill(begin, end, value)
+    // fill() = fill a range of element whit a apecified value fill(begin, end, value)
     int size_3 = 3;
     string foods[size_3];
     fill(foods, foods + (size_3/3), "pizza");
@@ -148,22 +148,6 @@ int main(){
     }
     cout<<"*********************************************\n";
 
-
-
-
-
-
-
-
-
-
-
-
-     
-
-
-
-    
 
 
     return 0;
